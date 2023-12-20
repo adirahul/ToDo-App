@@ -1,0 +1,40 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+.App h2{
+  text-align: center;
+}
+
+.check1{
+  display: flex;
+  margin: 0 20px 0 20px;
+  align-items: center;
+}
+input[type="checkbox"]{
+  margin-right: 20px;
+}
+input[type="text"]{
+  height: 30px;
+  width: 250px;
+  margin-right: 40px;
+}
+.btn-grey{
+  margin: 0 10px 0 20px;
+}
+.btn-success{
+  margin: 0 10px 0 20px;
+  color: rgb(7, 158, 7);
+}
+.btn-danger{
+  margin: 0 10px 0 20px;
+  color: rgb(216, 46, 46);
+}
+.c1{
+  margin: 30px 60px;
+}
+
+.App1 h3{
+  margin-top: 80px;
+  text-align: center;
+}
